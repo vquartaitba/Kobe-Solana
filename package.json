@@ -1,0 +1,8 @@
+{
+    "name": "kobe",
+    "private": true,
+    "workspaces": [
+      "frontend",
+      "backend/*"
+    ]
+  }
