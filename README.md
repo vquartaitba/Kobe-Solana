@@ -97,12 +97,8 @@ const SUPABASE_URL = "https://eajrvhzuisvfdqkobved.supabase.co";
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 ```
-## Installation
 
-Must install cargo, rust, solana.
-Must write npm i in all folders.
-
-##External Resources
+## External Resources
 This project leverages the power of the FEVM (Filecoin Ethereum Virtual Machine) to deploy smart contracts and store crucial data in a decentralized manner using Filecoin.
 
 User Conversations Data
