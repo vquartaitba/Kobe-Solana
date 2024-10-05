@@ -2,7 +2,7 @@
 
 ## Presentation
 
-[Kobe - Presentation](https://www.figma.com/slides/tmOQDZXXDg6shYu2XgL9BQ/kobe-deck-solana?node-id=1-582&t=wehMZJvlRNfkc8gB-1 )
+[Kobe - Presentation](https://www.figma.com/slides/tmOQDZXXDg6shYu2XgL9BQ/kobe-deck-solana?node-id=1-305&node-type=slide)
 
 [Video introducing Kobe](https://www.youtube.com/watch?v=zvIfosxRu8A)
 
