@@ -19,13 +19,13 @@ The first constraint ensures that exactly one version is selected for each libra
 
 The following diagram shows the tree structure of library dependencies for a given library, where libraries in level 1 depend on libraries in level 2, and so on.
 
-![Tree Diagram](Tree.png)
+![Tree Diagram](img/Tree.png)
 
 ## Dependency Graph
 
 The following diagram shows a small dependency graph where libraries depend on each other.
 
-![Graph Diagram](Graph.png)
+![Graph Diagram](img/Graph.png)
 
 ## Setting
 
