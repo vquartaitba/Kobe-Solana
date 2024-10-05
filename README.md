@@ -2,7 +2,7 @@
 
 ## Presentation
 
-[Kobe - Presentation]([https://www.figma.com/deck/LUxodILMvAjbpITukwxaRx/Kobe-Deck-Solana?node-id=1-305&node-type=slide&t=nS3TruYXqnd8nLVD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/slides/tmOQDZXXDg6shYu2XgL9BQ/kobe-deck-solana?node-id=1-582&t=wehMZJvlRNfkc8gB-1 )
+[Kobe - Presentation]([https://www.figma.com/deck/LUxodILMvAjbpITukwxaRx/Kobe-Deck-Solana?node-id=1-305&node-type=slide&t=nS3TruYXqnd8nLVD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/slides/tmOQDZXXDg6shYu2XgL9BQ/kobe-deck-solana?node-id=1-582&t=wehMZJvlRNfkc8gB-1 ))
 
 [Video introducing Kobe](https://www.youtube.com/watch?v=zvIfosxRu8A)
 
