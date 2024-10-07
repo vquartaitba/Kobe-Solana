@@ -97,13 +97,3 @@ const SUPABASE_URL = "https://eajrvhzuisvfdqkobved.supabase.co";
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 ```
-
-## External Resources
-This project leverages the power of the FEVM (Filecoin Ethereum Virtual Machine) to deploy smart contracts and store crucial data in a decentralized manner using Filecoin.
-
-User Conversations Data
-We are committed to protecting our users' data by storing it in a decentralized manner. The data from user conversations will also be uploaded to Filecoin, following the same process used for the embeddings.
-
-https://github.com/pablogroisman/kobe-filecoin
-
-•⁠  ⁠[Smart Contract on Calibration Testnet](https://calibration.filfox.info/en/address/0x686BABbCa7924470f8c4343C6b4b702a0e0Bb5eb)
