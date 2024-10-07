@@ -97,3 +97,11 @@ const SUPABASE_URL = "https://eajrvhzuisvfdqkobved.supabase.co";
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 ```
+
+## External Resources
+
+This project leverages the power of the Solana blockchain to generate, compile, and deploy smart contracts using the Rust language quickly, securely, and efficiently.
+
+## User Conversations Data
+
+We are committed to protecting user data. All information generated in conversations is handled securely and will never be shared.
