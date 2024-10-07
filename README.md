@@ -28,7 +28,7 @@ To generate, compile, and deploy contracts on the Solana blockchain using Kobe, 
 Make sure you have the following tools installed on your system:
 
 1. **Node.js and npm**: Kobe uses npm to handle frontend dependencies.
-   - Install Node.js and npm from [here](https://nodejs.org/en/download/), or with a package manager like `nvm`:
+   - Install Node.js and npm [here](https://nodejs.org/en/download/), or with a package manager like `nvm`:
      ```bash
      nvm install node
      ```
